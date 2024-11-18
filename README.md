@@ -5,5 +5,5 @@ The RISC-V processor NEORV32 is a wonderful project written by S. Nolting and ma
 Three solutions are presented: **full software**, **convoluter for CFU**  and a complete  **image filter inside CFS**. This solutions are created for squared images of resolution 32x32 to process using an isotropic filter.
 ***
 ### LICENSE
-The code for the image filter is granted under the BSD-3 license. The NEORV32 processor, hard copied inside this repository, is also released under the BSD-3, all rights reserved to S.Nolting and project contributors.
+The code for the image filter is granted under the BSD-3 license. The NEORV32 processor, as submodule inside this repository, is also released under the BSD-3, all rights reserved to S.Nolting and project contributors.
 

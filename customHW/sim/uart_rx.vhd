@@ -1,8 +1,9 @@
 -- ================================================================================ --
--- image_filter_NEORV32: hardware accelerated image filter for neorv32              --                
+-- NEORV32 - Simulation UART Receiver (print to simulator console)                  --
 -- -------------------------------------------------------------------------------- --
--- Project repository - https://github.com/H1alus/image_filter_neorv32              --
--- Copyright (c) 2024 Vittorio Folino. All rights reserved.                         --
+-- The NEORV32 RISC-V Processor - https://github.com/stnolting/neorv32              --
+-- Copyright (c) NEORV32 contributors.                                              --
+-- Copyright (c) 2020 - 2024 Stephan Nolting. All rights reserved.                  --
 -- Licensed under the BSD-3-Clause license, see LICENSE for details.                --
 -- SPDX-License-Identifier: BSD-3-Clause                                            --
 -- ================================================================================ --

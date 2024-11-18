@@ -18,6 +18,5 @@
 	(p[2][0] << 16) | (p[2][1] << 8) | (p[2][2] << 0))    // R4-type instruction
 
 void set_kernel(uint32_t W1, uint32_t W2, uint32_t W3);
-// int32_t convolute(uint32_t p[3][3]);
 
 #endif

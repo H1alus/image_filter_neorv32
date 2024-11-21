@@ -15,8 +15,8 @@
 #include "rw_addr.h"
 
 #define BAUD_RATE 19200
-#define USE_UART0
-#define PERF_COUNT
+//#define USE_UART0
+//#define PERF_COUNT
 
 
 int main() {
